@@ -5,6 +5,7 @@ Anotações e testes de uso do GIT
 # Estados de arquivos
 
 Untracked | Tracked | Modified | Staged
+------------------|------------------|------------------|------------------
 Arquivo não controlado ou rastreado pelo git | Arquivo controlado pelo git | Arquivo que já é rastreado pelo git e que sofre uma alteração | Arquivo pronto para ser enviado pro repositório, ocorre no git add
 
 
