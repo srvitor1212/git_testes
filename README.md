@@ -10,7 +10,6 @@ Arquivo não controlado ou rastreado pelo git | Arquivo controlado pelo git | Ar
 
 
 # Inicio de um projeto
-
 ---
 git init
 
@@ -31,6 +30,7 @@ git config --global user.email "Meu nome"
 Configura nome e e-mail de todos os repositórios naquela máquina
 
 
+# Comandos básicos
 ---
 git add arquivo.txt
 git add .
@@ -55,3 +55,28 @@ git diff
 git diff 2fd21b7 c3d6a19
 
 Mostra as diferença entre arquivos ou commits
+
+
+# Log de commits
+---
+git log
+
+Mostra o histórico de commits da branch atual
+
+
+---
+git log --all
+
+Mostra o histórico de commits de todos o projeto e suas branches.
+
+
+---
+git log --oneline
+
+Mostra cada commit em uma linha de forma resumida.
+
+
+---
+git log -3
+
+Mostra só os últimos X commits
