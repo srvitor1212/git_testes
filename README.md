@@ -88,3 +88,23 @@ git checkout 2fd21b7
 
 Volta os arquivos para o commit informado, após esse comando é recomendado criar uma nova branch.
 
+# Branches
+---
+git branch
+
+Mostra as branches locais
+
+
+---
+git branch --all
+
+Mostra todas as branches, inclusive as remotas
+
+
+---
+git checkout master
+
+Muda de branch
+
+
+---
