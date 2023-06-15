@@ -87,3 +87,4 @@ Mostra só os últimos X commits
 git checkout 2fd21b7
 
 Volta os arquivos para o commit informado, após esse comando é recomendado criar uma nova branch.
+
