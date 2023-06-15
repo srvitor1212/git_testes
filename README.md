@@ -82,6 +82,12 @@ git log -3
 Mostra só os últimos X commits
 
 
+---
+git commit --amend -m "Nova mensagem no commit"
+
+Renomeia a mensagem do último commit. Também adicionar arquivos no staged ao commit.
+
+
 # Voltar no tempo
 ---
 git checkout 2fd21b7
