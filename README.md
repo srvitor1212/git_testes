@@ -80,3 +80,10 @@ Mostra cada commit em uma linha de forma resumida.
 git log -3
 
 Mostra só os últimos X commits
+
+
+# Voltar no tempo
+---
+git checkout 2fd21b7
+
+Volta os arquivos para o commit informado, após esse comando é recomendado criar uma nova branch.
