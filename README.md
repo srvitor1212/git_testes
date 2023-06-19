@@ -139,5 +139,15 @@ git checkout master
 
 Muda de branch
 
+---
+git checkout -b DEVELOP
+
+Cria uma nova branch a partir da atual.
+
+---
+git branch -d DEVELOP
+
+Deleta a branch
+
 
 ---
