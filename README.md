@@ -149,5 +149,10 @@ git branch -d DEVELOP
 
 Deleta a branch
 
+---
+git merge develop
+
+Faz merge das alteraçõe da develop na branch atual
+
 
 ---
