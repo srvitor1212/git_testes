@@ -115,6 +115,11 @@ git checkout ARQUIVO.TXT
 
 Parecido com git restore, volta as alterações do arquivo que não ainda não foi enviado para stage.
 
+---
+git reset HEAD --hard
+
+Desfas todas as alterações e volta para o HEAD.
+
 
 # Branches
 ---
