@@ -110,6 +110,11 @@ git restore --staged ARQUIVO.TXT
 
 Voltar a alteração de staged (git add) para modificado, permitindo usar o git restore para desfazer as alterações.
 
+---
+git checkout ARQUIVO.TXT
+
+Parecido com git restore, volta as alterações do arquivo que não ainda não foi enviado para stage.
+
 
 # Branches
 ---
