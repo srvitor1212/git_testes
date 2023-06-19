@@ -100,6 +100,17 @@ git checkout 2fd21b7
 
 Volta os arquivos para o commit informado, após esse comando é recomendado criar uma nova branch.
 
+---
+git restore
+
+Desfaz as alterações que ainda não foram enviadas para Stage.
+
+--- 
+git restore --staged ARQUIVO.TXT
+
+Voltar a alteração de staged (git add) para modificado, permitindo usar o git restore para desfazer as alterações.
+
+
 # Branches
 ---
 git branch
