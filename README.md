@@ -118,7 +118,7 @@ Parecido com git restore, volta as alterações do arquivo que não ainda não f
 ---
 git reset HEAD --hard
 
-Desfas todas as alterações e volta para o HEAD.
+Desfas todas as alterações e volta para o HEAD. Não tem volta...
 
 
 # Branches
