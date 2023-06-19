@@ -51,6 +51,12 @@ Envia os commits locais para branch remota.
 
 
 ---
+git pull
+
+Atualiza o repositório local. Usa-lo na branch develop ou main.
+
+
+---
 git diff
 
 git diff 2fd21b7 c3d6a19
