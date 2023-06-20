@@ -154,5 +154,9 @@ git merge develop
 
 Faz merge das alteraçõe da develop na branch atual
 
+---
+git remote -v
+
+Mostra as branches remotas
 
 ---
